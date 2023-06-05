@@ -2,6 +2,32 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+#favicon {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+#edu-c {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#she-f {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#fod-f {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.para {
+    margin-left: 20px;
+    text-align: left;
+    margin-right: 10px;
+}
+
 h1 {
     font-size: 50px
 }
@@ -64,7 +90,8 @@ div p {
 
 .donate {
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
+
 }
 
 .donate-plan {
