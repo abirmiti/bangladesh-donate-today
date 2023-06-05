@@ -140,3 +140,49 @@ div p {
     border-radius: 5px;
 
 }
+
+.Contribute {
+    display: flex;
+    width: 100%;
+    margin-top: 130px;
+}
+
+.how-contribute-1 {
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+.how-contribute-2 {
+    width: 50%;
+    margin-left: 30px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+
+.how-contribute-3 {
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-top: 70px;
+}
+
+.how-contribute-4 {
+    width: 50%;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+#anchor {
+    background-color: #ff5959;
+    padding: 20px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+#img {
+    width: 100%;
+    border-radius: 5px;
+}
