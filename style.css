@@ -1,5 +1,6 @@
 body {
     font-family: 'Oswald', sans-serif;
+    margin: 0;
 }
 
 #favicon {
@@ -198,21 +199,23 @@ div p {
     margin-left: 270px;
 }
 
-.input-2 {
-    background-color: grey;
+input {
+    width: 40%;
     padding: 12.3px 11px 10.1px 11px;
-    border-radius: 5px;
-    border: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
     margin-top: 10px;
+    margin-bottom: 50px;
     box-sizing: border-box;
 }
 
 ::placeholder {
-    color: azure;
+    color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 15px;
     font-weight: 700;
-    text-align: left;
+    text-align: center;
 }
 
 #sub {
