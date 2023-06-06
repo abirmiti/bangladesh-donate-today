@@ -186,3 +186,39 @@ div p {
     width: 100%;
     border-radius: 5px;
 }
+
+.updates {
+    text-align: center;
+}
+
+.update-input {
+    width: 50%;
+    background-color: red;
+    padding: 60px;
+    margin-left: 270px;
+}
+
+.input-2 {
+    background-color: grey;
+    padding: 12.3px 11px 10.1px 11px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+::placeholder {
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: left;
+}
+
+#sub {
+    margin-top: 10px;
+    margin-left: -5px;
+    padding: 7px 15px;
+    border-radius: 5px;
+    background-color: #ff5959;
+}
