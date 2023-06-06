@@ -225,3 +225,11 @@ input {
     border-radius: 5px;
     background-color: #ff5959;
 }
+
+.footer {
+    background-color: black;
+    color: #ff5959;
+    text-align: center;
+    margin-top: 80px;
+    padding: 15px;
+}
