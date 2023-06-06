@@ -48,18 +48,19 @@ div p {
     background-size: auto;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 .top-banner {
 
     padding-top: 100px;
-    padding-bottom: 200px;
+    padding-bottom: 220px;
     text-align: center;
     color: #eeeded;
 }
 
 .donate-banner {
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .donate-banner-2 {
